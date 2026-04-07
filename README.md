@@ -2,9 +2,12 @@
 Serverless Infrastructure "Add-website" by [MAIN.WROMOM.NET](https://main.wromo.net/)
 
 
-Serverless Website deploy: The central routing node for your e-commerce infrastructure.
-All static stores are orchestrated through this serverless gateway,
-ensuring ultra-fast deployments and security through Cloud Functions Actions.
+Serverless Website deploy: The central routing node for your website infrastructure.
+Deploy to static storage end are orchestrated through this serverless gateway,
+ensuring ultra-fast deployments and security through Google Cloud Functions Actions.
+Website edit end list again - in static mode back!
+What offer node wromo.net:
+
 
 
 ## Central Node Users dashboard
